@@ -7,3 +7,21 @@ Some text, and more, exit file
 - Make a commit
 
 - Push master branch
+
+Google: Some text, and more, exit file,
+Some text, and more, exit file,
+Some text, and more, exit file,
+Some text, and more, exit file,
+Some text, and more, exit file,
+Some text, and more, exit file,
+Some text, and more, exit file,
+Some text, and more, exit file,
+
+Firefox: Some text, and more, exit file,
+Some text, and more, exit file,
+Some text, and more, exit file,
+Some text, and more, exit file,
+Some text, and more, exit file,
+Some text, and more, exit file,
+Some text, and more, exit file,
+Some text, and more, exit file,
