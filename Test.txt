@@ -1,1 +1,9 @@
 Some text, and more, exit file
+
+- Create repo
+
+- Add changes
+
+- Make a commit
+
+- Push master branch
